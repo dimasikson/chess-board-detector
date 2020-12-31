@@ -6,9 +6,9 @@ import os
 
 from fen_chess_data.utils import distance, find_max_contour_area, find_outer_corners, do_perspective_transform, split_chessboard, preds_to_fen, generate_img
 
-weights_fname   = f"vcpkg/installed/x64-windows/tools/darknet/backup/yolov4-tiny-obj_best.weights"  # substitute your weights
-cfg_fname       = f"vcpkg/installed/x64-windows/tools/darknet/cfg/yolov4-tiny-obj.cfg"              # substitute your cfg
-classes_fname   = f"vcpkg/installed/x64-windows/tools/darknet/data/obj.names"                       # substitute your class names
+weights_fname   = f"YOLO_files/yolov4-tiny-obj_best.weights"  # substitute your weights
+cfg_fname       = f"YOLO_files/yolov4-tiny-obj.cfg"           # substitute your cfg
+classes_fname   = f"YOLO_files/obj.names"                     # substitute your class names
 
 model = tf.keras.models.load_model('fen_chess_data/models/model_best.h5')
 
