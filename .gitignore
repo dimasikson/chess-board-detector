@@ -1,0 +1,7 @@
+__pycache__/
+env/
+labelImg/
+darknet/
+vcpkg/
+fen_chess_data/chess-generator/
+fen_chess_data/data/
