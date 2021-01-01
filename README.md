@@ -8,7 +8,7 @@ This project is an end-to-end computer vision pipeline to detect 2d chess boards
 #### Chart 1. High-level pipeline overview.
 
 ### Demo video: https://www.youtube.com/watch?v=JC1B7B19dEQ
-![](https://media3.giphy.com/media/VOYfxkw3pHYm7N0Nni/giphy.gif)
+![](https://media.giphy.com/media/8TurMGdUisMdJmPxqz/giphy.gif)
 
 # 2. Detailed pipeline overview
 
