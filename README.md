@@ -7,8 +7,8 @@ This project is an end-to-end computer vision pipeline to detect 2d chess boards
 ![](https://github.com/dimasikson/chess_computer_vision_project/blob/master/chess%20CV%20project%20-%20pipeline%20overview.png?raw=true)
 #### Chart 1. High-level pipeline overview.
 
-### Demo video:
-[![](https://img.youtube.com/vi/JC1B7B19dEQ/0.jpg)](https://www.youtube.com/watch?v=JC1B7B19dEQ)
+### Demo video: https://www.youtube.com/watch?v=JC1B7B19dEQ
+![](https://media3.giphy.com/media/VOYfxkw3pHYm7N0Nni/giphy.gif)
 
 # 2. Detailed pipeline overview
 
